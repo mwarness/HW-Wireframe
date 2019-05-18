@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+header {
+    display: block;
+}
+header,nav,section,aside,footer{
+    background: #ebebeb;
+}
+.article{
+    color: black;
+    background: teal;
+}
+h1,p{
+    columns: #777777;
+    background: #ebebeb;
+}
+.section{
+    width: 495px;
+}
+
+#headers{
+    font-family: Arial, Helvetica, sans-serif;
+    clear: both;
+    float: inherit;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 960px;
+    height: 80px;
+    margin: auto;
+    background-color:teal;
+    position: relative
+
+    
+
+}
+#contact {
+    box-sizing: border-box;
+}
